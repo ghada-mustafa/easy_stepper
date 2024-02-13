@@ -166,7 +166,7 @@ class EasyStepper extends StatefulWidget {
     this.finishedStepBorderColor,
     this.finishedStepIconColor,
     this.stepRadius = 30,
-    this.unreachedStepRadius,
+    this.unreachedStepRadius = 20,
     this.steppingEnabled = true,
     this.disableScroll = false,
     this.showTitle = true,
